@@ -1,16 +1,17 @@
-### Hi there 👋
+# Oi, eu sou o Pacheco
 
-<!--
-**pacheco7/pacheco7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Um cara que está sempre estudando coisas novas.
 
-Here are some ideas to get you started:
+Pessoa de quase 37 anos, praticante de kendô, desenvolvedor (d'oh) e evangelizador de SAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=pacheco7&show_icons=true" />
+<img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacheco7&hide=html&layout=compact&theme=buefy" />
+
+## Linguagens que eu me aventuro
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
