@@ -2,7 +2,7 @@
 
 > Um cara que está sempre estudando coisas novas.
 
-Pessoa de quase 37 anos, praticante de kendô, desenvolvedor (d'oh) e evangelizador de SAP.
+Pessoa de 37 anos, praticante de Iaijutsu/Kenjutsu/Jojutsu, desenvolvedor (d'oh) e evangelizador de SAP e apaixonado por RPAs.
 
 ---
 
