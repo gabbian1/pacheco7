@@ -9,6 +9,8 @@ Pessoa de 37 anos, praticante de Iaijutsu/Kenjutsu/Jojutsu, desenvolvedor (d'oh)
 <img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api?username=pacheco7&show_icons=true" />
 <img width="480px" height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacheco7&hide=html&layout=compact&theme=buefy" />
 
+</br>
+</br>
 
 ## Linguagens que eu me aventuro
 
