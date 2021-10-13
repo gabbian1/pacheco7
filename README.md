@@ -11,6 +11,16 @@ Pessoa de 37 anos, praticante de Iaijutsu/Kenjutsu/Jojutsu, desenvolvedor (d'oh)
 
 </br>
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## Linguagens que eu me aventuro
 
